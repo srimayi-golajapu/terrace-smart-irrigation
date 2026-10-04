@@ -1,1 +1,0 @@
-# terrace-smart-irrigation
